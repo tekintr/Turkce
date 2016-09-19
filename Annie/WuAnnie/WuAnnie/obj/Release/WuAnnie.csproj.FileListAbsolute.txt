@@ -1,0 +1,10 @@
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\WuAnnie.exe.config
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\WuAnnie.exe
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\WuAnnie.pdb
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\EloBuddy.dll
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\EloBuddy.SDK.dll
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\SharpDX.dll
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\bin\Release\Newtonsoft.Json.dll
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\obj\Release\WuAnnie.exe
+C:\Users\ismail\AppData\Roaming\EloBuddy\Repositories\6CBAFB77\Annie\WuAnnie\WuAnnie\obj\Release\WuAnnie.pdb
